@@ -13,5 +13,5 @@ g++ -std=c++17 main.cpp -o movie_booking
 - No header files
 - main.cpp includes the class source files in dependency order
 
-See `TCS-504_Assignment_1_Submission.docx` for requirements, noun-verb analysis,
+See `TCS-504_Assignment_1_Submission.pdf` for requirements, noun-verb analysis,
 relationships, UML source, sequence diagram source, SOLID mapping and design decisions.
